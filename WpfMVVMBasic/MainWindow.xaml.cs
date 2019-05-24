@@ -28,3 +28,14 @@ namespace WpfMVVMBasic
         }
     }
 }
+
+//https://www.youtube.com/watch?v=lool8Ut58Xw&list=PLw8ap9mWnEiLOsVQhbEMQPiHC_xZqLcdQ&index=2
+// DCOM Engineering, LLC
+
+
+////To Read -  
+//// ReactiveProperty // https://github.com/runceel/ReactiveProperty
+////https://okazuki.jp/ReactiveProperty/getting-started/wpf.html
+/// Reactive MVVM https://medium.com/@worldbeater/reactive-mvvm-for-net-platform-175dc69cfc82
+
+
